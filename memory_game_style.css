@@ -1,0 +1,46 @@
+  table {
+    position: relative;
+    left: 500px;
+    top: 50px;
+    border: 1px black solid;
+    border-radius: 5px;
+    padding: 2px;
+    background: #fff68f;
+  }
+  
+  td {
+    background: url(images/main.jpg);
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    width: 80px;
+    height: 80px;
+    vertival-align: middle;
+    border: 1px #b0b800 solid;
+    border-radius: 5px;    
+  }
+
+  #message {
+    position: relative;
+    font: italic bold 12px/30px Georgia, serif;
+    left: 500px;
+    top: 50px;
+  }
+  
+  button {
+    position: relative;
+    left: 500px;
+    top: 50px;
+    border: 2px #ddb000 solid;
+    border-radius: 5px;
+    margin: 5px 20px 0px 0px;
+  }
+  
+  p {
+    position: relative;
+    margin: 0px 20px 0px 500px;
+    font-size: 40px;
+  }
+  .logo{
+    width:75px;
+    height:35px;
+  }
