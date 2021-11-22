@@ -1,4 +1,4 @@
-
+// 2021=)
 var memoryArray = [];   // array to store clicked cells images
 var imagesArray = [];   // array to store images
 var memoryCellId = [];  // array to store clicked cells id
